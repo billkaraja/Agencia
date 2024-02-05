@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	
+}
+.container{
+	text-align: center;
+}
+h4{
+	color: #66bbff;
+}
+.botao {
+   text-decoration: none;
+   background-color: #66bbff;
+   padding: 5px 10px 5px 10px;
+   color: #fff;
+   font-size: 1.2em;
+   font-weight:700;
+   border-radius: 5px;
+   border:0;
+   cursor: pointer;
+}
+.botao1 {
+   text-decoration: none;
+   background-color: #d51213;
+   padding: 5px 10px 5px 10px;
+   color: #fff;
+   font-size: 1.2em;
+   font-weight:700;
+   border-radius: 5px;
+  }
+  .caixa1{
+  width: 350px;
+  padding: 5px 10px 5px 10px;
+  
+  }
+  #caixa3{
+  width: 350px;
+  padding: 5px 10px 5px 10px;
+  
+  }
+ .table{
+ border-collapse: collapse;
+ border: 1px solid #ededed;
+ margin: center;
+ 
+ .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+
+ }
+ tr:hover {background-color: #ddd;}
+ 
+ .table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+tbody tr {
+ height: 40px;
+ border-bottom: 1px solid #ededed;
+ background-color: #fff;
+ }
+}

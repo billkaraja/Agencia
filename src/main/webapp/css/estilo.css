@@ -1,0 +1,29 @@
+.jumbotron{
+	background-image: url('/img/hospitalarazul.jpg');
+	background-size: cover;
+	background-position: center;	
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #007bff;
+}
+
+.logotipo{
+	width: 16px;
+	height: 16px;
+}
+/*
+
+.nav-link{
+	padding-top:5rem ; /* pt-0 até pt-5
+	padding-left: ; /* pl-0 até pl-5
+	padding-right: ; /* pr-0 até pr-5
+	padding-bottom:5rem; /* pb-0 até pb-5
+	background: #942D39;
+	border: solid 1px;
+	margin-left: 1rem;/* ml-0 até ml-5 
+	margin-right:2rem ; /* mr-0 até mr-5 
+	margin-top:2rem ; /* mt-0 até mt-5 
+	margin-bottom:3rem ; /* mb-0 até mb-5 
+}
+
+*/
